@@ -1,0 +1,16 @@
+# PlatformIO
+**/.pio/
+**/.vscode/
+
+# Python
+**/.venv/
+**/__pycache__/
+**/*.pyc
+
+# Qt
+**/build/
+**/.qtcreator/
+
+# OS
+Thumbs.db
+.DS_Store
